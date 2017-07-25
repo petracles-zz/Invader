@@ -21,4 +21,5 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
+*.rb linguist-language=C#
 jc_ansiterm_0.1/* linguist-vendored=true
