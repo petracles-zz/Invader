@@ -22,4 +22,4 @@
 *.RTF	 diff=astextplain
 
 *.rb linguist-language=C#
-~/* linguist-vendored
+Invader_Data/* linguist-vendored
